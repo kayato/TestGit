@@ -3,7 +3,7 @@
 $email = "test@gmail.com";
 $password = "test";
 
-if (1 == 1)  {
+if (true)  {
   echo "ログイン成功";
   die;
 }
