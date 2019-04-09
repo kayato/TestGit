@@ -3,7 +3,8 @@
 $email = "test@gmail.com";
 $password = "test";
 
-if (true)  {
+$facebook = true;
+if ($facebook)  {
   echo "ログイン成功";
   die;
 }
